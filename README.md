@@ -1,6 +1,6 @@
 👋 Hi, I’m Kishlay Kumar
 I’m interested in web-depelopment and Machine Learing..
-I’m currently a student of class 9th... 
+I’m currently a student of class 10th... 
 
 
 <!---
